@@ -1,2 +1,3 @@
 # Matlab-laptime-simulation
-laptime simulation of ev in matlab.
+Laptime simulation of ev in matlab.
+Here we are designing our matlab simulink version of ev and then test it with different motors by performing a laptime simulation on track.
